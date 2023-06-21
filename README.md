@@ -1,8 +1,13 @@
 # Mobile-Price-Range-Prediction-A-Data-Science-Approach
-Mobile Price Range Prediction: Use sales data to build a classification model for mobile phone price ranges. Features include battery power, camera, memory, and connectivity. Split data, apply logistic regression, KNN, SVM (linear and rbf), and evaluate using confusion matrices. Select the most accurate model.
+Mobile Price Range Prediction: 
+
+Use sales data to build a classification model for mobile phone price ranges. Features include battery power, camera, memory, and connectivity. Split data, apply logistic regression, KNN, SVM (linear and rbf), and evaluate using confusion matrices. Select the most accurate model.
 
 Problem statement: 
+
 Create a classification model to predict whether price range of mobile based on certain specifications
+
+
 Context: 
 An entrepreneur has started his own mobile company. He wants to give tough fight to big companies like Apple, Samsung etc.
 He does not know how to estimate price of mobiles his company creates. In this competitive mobile phone market, one cannot simply assume things. To solve this problem, he collects sales data of mobile phones of various companies.
